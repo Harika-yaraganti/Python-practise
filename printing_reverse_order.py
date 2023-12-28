@@ -2,4 +2,4 @@
 #and print it in reverse order.
 
 string=input("enter the name:")
-print(string)
+print("reverse order of a string={}".format(string[::-1]))

@@ -2,4 +2,4 @@
 
 radius=int(input("enter the number:"))
 area=22/7*radius*radius
-print(area)
+print("area of a circle={}".format(area))
