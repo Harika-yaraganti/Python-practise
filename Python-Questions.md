@@ -37,18 +37,18 @@
 ###For Loop
 - Write a program that remove's duplicate items from a list
 - Different printing patterns using for loop in python
-*
-* *
-* * *
-* * * *
-* * * * * 
+- *
+- * *
+- * * *
+- * * * *
+- * * * * * 
 
 * * * * *
 * * * *
 * * *
 * *
 *
-'''
+
         *
       * *
     * * *
