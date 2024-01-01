@@ -33,3 +33,40 @@
 - Write a program to check whether a given number is palindrome number or not
 - Write a program to check whether a given number is prime or not
 - Write a program to print factorial of a given number
+
+###For Loop
+- Write a program that remove's duplicate items from a list
+- Different printing patterns using for loop in python
+*
+* *
+* * *
+* * * *
+* * * * * 
+
+* * * * *
+* * * *
+* * *
+* *
+*
+
+        *
+      * *
+    * * *
+  * * * *
+* * * * *
+
+* * * * *
+  * * * *
+    * * *
+      * *
+        *
+
+- Write a program that accepts a sequence of whitespace separated words as input and prints the words after removing all duplicate words and sorting them alphanumerically. Suppose the following input is supplied to the program: hello world and practice makes perfect and hello world again Then, the output should be: again and hello makes perfect practice world
+  
+- Write a program, which will find all such numbers between 1000 and 3000 (both included) such that each digit of the number is an even number. The numbers obtained should be printed in a comma-separated sequence on a single line.
+
+- Write a program that accepts a sentence and calculate the number of letters and digits. Suppose the following input is supplied to the program: hello world! 123 Then, the output should be: LETTERS 10 DIGITS 3
+
+- Write a program that accepts a sentence and calculate the number of upper case letters and lower case letters. Suppose the following input is supplied to the program: Hello world! Then, the output should be: UPPER CASE 1 LOWER CASE 9
+
+- Program to get the Fibonacci series between 0 to 50
