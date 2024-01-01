@@ -11,7 +11,7 @@
 ### Tuple
 - With a given tuple (1,2,3,4,5,6,7,8,9,10,11,12,13,14), write a program to print the first half values in one line and the last half values in one line.
 
-###COnditions and Loops
+### Conditions and Loops
 - write a Program to check if a number is positive, negative or zero
 - Write a program which accepts a string as input to print "Yes" if the string is "yes" or "YES" or "Yes", otherwise print "No"
 - Write a program to test whether a passed letter is a vowel or not (Pass the letter from console)
@@ -34,7 +34,7 @@
 - Write a program to check whether a given number is prime or not
 - Write a program to print factorial of a given number
 
-###For Loop
+### For Loop
 - Write a program that remove's duplicate items from a list
 - Different printing patterns using for loop in python
 
